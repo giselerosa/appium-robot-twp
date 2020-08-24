@@ -12,7 +12,7 @@ ${TOOLBAR_TITLE}    id=io.qaninja.android.twp:id/toolbarTitle
 
 Deve acessar a página Dialogs
 
-    Get Started
+
     Open Nav
     Click Text                       DIALOGS
     Wait Until Element Is Visible    ${TOOLBAR_TITLE}    
@@ -21,7 +21,6 @@ Deve acessar a página Dialogs
 
 Deve acessar a tela de formulários
 
-    Get Started
     Open Nav                         
     Click Text                       FORMS
     Wait Until Element Is Visible    ${TOOLBAR_TITLE}    
@@ -29,7 +28,7 @@ Deve acessar a tela de formulários
 
 Deve acessar a tela de vingadores
 
-    Get Started
+
     Open Nav 
     Click Text                       AVENGERS
     Wait Until Element Is Visible    ${TOOLBAR_TITLE}    
